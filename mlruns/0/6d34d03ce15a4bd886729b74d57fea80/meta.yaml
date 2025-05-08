@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/6d34d03ce15a4bd886729b74d57fea80/artifacts
+end_time: 1746664024675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d34d03ce15a4bd886729b74d57fea80
+run_name: painted-swan-44
+run_uuid: 6d34d03ce15a4bd886729b74d57fea80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664022530
+status: 3
+tags: []
+user_id: dali

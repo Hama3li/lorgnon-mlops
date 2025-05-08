@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/3a64e78bd4e64d628e603e5985f4b062/artifacts
+end_time: 1746663086437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a64e78bd4e64d628e603e5985f4b062
+run_name: colorful-boar-349
+run_uuid: 3a64e78bd4e64d628e603e5985f4b062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663084266
+status: 3
+tags: []
+user_id: dali

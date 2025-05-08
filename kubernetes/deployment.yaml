@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lorgnon-api-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lorgnon-api
+  template:
+    metadata:
+      labels:
+        app: lorgnon-api
+    spec:
+      containers:
+        - name: lorgnon-api
+          image: lorgnon-api
+          imagePullPolicy: Never  # ⬅️ ceci est OBLIGATOIRE pour image locale
+          ports:
+            - containerPort: 8000

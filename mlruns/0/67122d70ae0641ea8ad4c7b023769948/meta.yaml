@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/67122d70ae0641ea8ad4c7b023769948/artifacts
+end_time: 1746664831487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67122d70ae0641ea8ad4c7b023769948
+run_name: glamorous-fox-670
+run_uuid: 67122d70ae0641ea8ad4c7b023769948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664829490
+status: 3
+tags: []
+user_id: dali

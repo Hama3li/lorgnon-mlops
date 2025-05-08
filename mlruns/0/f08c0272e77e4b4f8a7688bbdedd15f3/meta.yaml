@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/f08c0272e77e4b4f8a7688bbdedd15f3/artifacts
+end_time: 1746664001503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f08c0272e77e4b4f8a7688bbdedd15f3
+run_name: resilient-stoat-227
+run_uuid: f08c0272e77e4b4f8a7688bbdedd15f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663999543
+status: 3
+tags: []
+user_id: dali

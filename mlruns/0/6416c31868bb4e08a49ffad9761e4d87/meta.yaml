@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/6416c31868bb4e08a49ffad9761e4d87/artifacts
+end_time: 1746663982071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6416c31868bb4e08a49ffad9761e4d87
+run_name: handsome-bee-508
+run_uuid: 6416c31868bb4e08a49ffad9761e4d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663980211
+status: 3
+tags: []
+user_id: dali

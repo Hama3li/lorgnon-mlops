@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/ae42fa33621c482d8394581ff18f8a17/artifacts
+end_time: 1746661871423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae42fa33621c482d8394581ff18f8a17
+run_name: stately-loon-947
+run_uuid: ae42fa33621c482d8394581ff18f8a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746661868412
+status: 3
+tags: []
+user_id: dali

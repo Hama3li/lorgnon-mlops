@@ -1,0 +1,10 @@
+xgboost
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+python-dotenv
+email-validator
+matplotlib
+streamlit

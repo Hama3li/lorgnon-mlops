@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dali/mlops_lorgnon/mlruns/0/3ce5393682624b5185aae1d29a1edbdb/artifacts
+end_time: 1746664842134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ce5393682624b5185aae1d29a1edbdb
+run_name: burly-flea-399
+run_uuid: 3ce5393682624b5185aae1d29a1edbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664840081
+status: 3
+tags: []
+user_id: dali

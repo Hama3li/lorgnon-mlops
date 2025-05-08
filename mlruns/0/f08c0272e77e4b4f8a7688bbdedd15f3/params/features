@@ -1,0 +1,1 @@
+['lte_rsrp', 'lte_rsrq', 'nr_ssRsrp', 'nr_ssRsrq', 'nr_ssSinr', 'mobility_mode', 'movingSpeed', 'compassDirection', 'handoff', 'pixel_x', 'pixel_y', 'throughput_lag_1', 'throughput_lag_2', 'throughput_lag_3', 'throughput_lag_4', 'throughput_delta']
