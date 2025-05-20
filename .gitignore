@@ -1,0 +1,7 @@
+venv/
+*.so
+*.pkl
+*.h5
+*.csv
+*.log
+*.ipynb_checkpoints/
